@@ -1,0 +1,11 @@
+:root {
+    /* Colours */
+    --black: #111111;
+    --white: #FFFFFF;
+    --yellow: #F4D04E;
+    --grey: #7F7F7F;
+    /* Fonts */
+    --main-font: 'Figtree-VariableFont_wght.ttf',
+                 'Figtree-SemiBold.ttf',
+                 sans-serif;
+}
