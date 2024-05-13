@@ -36,3 +36,9 @@ body {
 .card-img {
     border-radius: 0.625em;
 }
+
+.card-header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75em;
+}
