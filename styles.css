@@ -62,3 +62,8 @@ body {
     font-weight: 500;
     font-size: 0.875em;
 }
+
+.card-title {
+    font-weight: 800;
+    font-size: clamp(1.25rem, 1.2201rem + 0.1493vw, 1.5rem);
+}
