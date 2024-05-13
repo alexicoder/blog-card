@@ -9,3 +9,8 @@
                  'Figtree-SemiBold.ttf',
                  sans-serif;
 }
+
+body {
+    font-family: var(--main-font);
+    background-color: var(--yellow);
+}
