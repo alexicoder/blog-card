@@ -28,4 +28,7 @@ body {
     gap: 1.5em;
     width: 100%;
     max-width: 384px;
+    border-radius: 1.25em;
+    border: solid 1px var(--black);
+    box-shadow: 8px 8px 0 var(--black);
 }
