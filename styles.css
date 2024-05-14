@@ -83,3 +83,8 @@ body {
 .author-block img {
     max-width: 2em;
 }
+
+.author-block figcaption {
+    font-size: 0.875em;
+    font-weight: 800;
+}
