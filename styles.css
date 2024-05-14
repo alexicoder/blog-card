@@ -88,3 +88,12 @@ body {
     font-size: 0.875em;
     font-weight: 800;
 }
+
+.card:hover {
+    transform: translate(-8px,-8px);
+    box-shadow: 16px 16px 0 var(--black);
+}
+
+.card:hover h1 {
+    color: var(--yellow);
+}
